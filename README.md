@@ -164,7 +164,7 @@ This `README.md` includes details about the project, its structure, setup, deplo
 
 
 
-Thank you !!!!                         Created by ashvani Singh - ashvanisingh427@gmail.com
+Thank you !!!!                         Created by Nandagiri Mythri - madhunanda13579@gmail.com
 
 
 
